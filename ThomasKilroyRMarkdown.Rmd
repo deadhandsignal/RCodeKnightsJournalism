@@ -11,11 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-
-
-```{r cars}
+```{r, echo=TRUE}
 summary(cars)
 ```
+
 
 ```{r cols.print=3, rows.print=3}
 mtcars
