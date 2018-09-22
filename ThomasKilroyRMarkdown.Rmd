@@ -1,5 +1,7 @@
 ---
-title: "TK FirstRMarkDown"
+title: "TKs test"
+author: "Thomas Kilroy"
+date: '`r Sys.Date()`'
 output: html_document
 ---
 
